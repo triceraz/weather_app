@@ -62,7 +62,7 @@ class WeatherApp(QWidget):
 
         self.setStyleSheet("""
             QLabel, QPushButton{
-                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+                font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
             }
             QLabel#city_label{
                 font-size: 40px;
